@@ -4,7 +4,7 @@
 
 void capout(int a)
 {
-  write(1,"HAHA...NO!!\n", 12);
+  write(1,"SWAG...NO!!\n", 12);
 }
 int main(void)
 {
